@@ -1,0 +1,33 @@
+#first{
+  margin-left: 50px;
+}
+
+#heading{
+   text-align: center;
+   margin-bottom: 40px;
+   color: rgb(227, 16, 16);
+  
+}
+
+#comment-heading{
+  font-weight: 1200;
+  
+}
+#post-comment{
+   margin-left: 5px;
+}
+
+#delete-button{
+   margin-right: 5px;
+}
+#delete-button:hover{
+   color: red;
+}
+#reply-button:hover{
+  color: green 
+}
+
+#full-bag{
+   margin: 5px;
+   background-color: rgb(251, 251, 243);
+}
